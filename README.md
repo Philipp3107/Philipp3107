@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, ich bin Philipp 👋
+  # Hey, ich bin Philipp 👋
   
   ### 💻 PHP | Java | Docker | Full-Stack Developer | Student
   
