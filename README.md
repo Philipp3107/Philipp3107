@@ -71,7 +71,4 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Philipp3107&show_icons=true&theme=vue&hide=prs&hide_rank=true" alt="Deine GitHub Statistiken" />
   </p>
-  
-  *Bitte ersetze **DEIN\_GITHUB\_USERNAME** mit deinem tatsächlichen Benutzernamen, damit die Grafiken funktionieren.*
-
 </div>
