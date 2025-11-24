@@ -1,42 +1,89 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hi there, ich bin [Dein Name] 👋
+  
+  ### 💻 PHP | Java | Full-Stack Developer
+  
+  <p align="center">
+    Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf <strong>robuste Backends</strong> (PHP/Symfony, Java) und effiziente E-Commerce-Lösungen (Shopware). Ich liebe sauberen, objektorientierten Code (OOP) und setze auf moderne DevOps-Praktiken mit Docker und GitLab, um Deployment-Prozesse zu optimieren.
+  </p>
+  
+  ---
+  
+  ### 🤝 Vernetzung & Kontakt
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([DEIN LINKEDIN PROFIL HIER EINFÜGEN])
+  [![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DEINE@EMAIL.DE)
+  
+</div>
 
-### 🚀 Meine erweiterten Kernkompetenzen
+---
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Shopware](https://img.shields.io/badge/Shopware-1DE9B6?style=for-the-badge&logo=shopware&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-1C2F53?style=for-the-badge&logoColor=white)
+<div align="left">
 
-### Gute Kentnisse
+  ## 🚀 Meine erweiterten Kernkompetenzen (Expertenniveau)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  Hier zeige ich meine tiefsten und routiniertesten Fähigkeiten, die ich täglich in Projekten anwende:
+  
+  <p>
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Shopware](https://img.shields.io/badge/Shopware-1DE9B6?style=for-the-badge&logo=shopware&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![OOP](https://img.shields.io/badge/OOP-1C2F53?style=for-the-badge&logo=php&logoColor=white)
+  </p>
+  
+  <br>
 
-### 📚 Ich lerne gerade (Anfänger-Level)
+  ## 👍 Gute Grundkenntnisse (Praktische Erfahrung)
+  
+  Diese Tools habe ich erfolgreich in kleineren Projekten oder spezifischen Modulen angewendet und bin bereit, das Wissen zu vertiefen.
+  
+  <p>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  </p>
+  
+  <br>
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ## 📚 Aktuell im Fokus (Lernziele)
+  
+  Hier beschäftige ich mich aktiv mit den neuesten Entwicklungen und dem Basis-Verständnis.
+  
+  <p>
+  ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  </p>
+  
+  ---
+  
+  <br>
+  
+  ## 📊 GitHub Statistiken
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=vue&hide=prs&hide_rank=true" alt="Deine GitHub Statistiken" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_USERNAME&theme=vue" alt="Deine GitHub Streak" />
+  </p>
+  
+  *Bitte ersetze **DEIN\_GITHUB\_USERNAME** mit deinem tatsächlichen Benutzernamen, damit die Grafiken funktionieren.*
 
-<!--
-**Philipp3107/Philipp3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Was macht diesen Entwurf so gut?
+
+1.  **Klarer Fokus:** Die Überschrift (`PHP | Java | Full-Stack Developer`) positioniert dich sofort.
+2.  **Übersichtliches Kurzprofil:** Der Text (mittig ausgerichtet für Aufmerksamkeit) nutzt Power-Wörter (`robuste Backends`, `effizient`, `moderne DevOps-Praktiken`) und erwähnt deine Kern-Skills (`Symfony`, `Docker`).
+3.  **Professionelle Badges:** Die Technologie-Badges sind exakt nach deinem Können in drei Ebenen unterteilt.
+4.  **Dynamik:** Die **GitHub Stats** und der **Streak** zeigen, dass du aktiv bist und regelmäßig Code schreibst – ein Riesen-Pluspunkt in der IT-Bewerbung.
+5.  **Call-to-Action:** Die **LinkedIn**-Verlinkung ist prominent platziert.
