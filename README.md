@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+### 🛠️ Meine Tech-Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 <!--
 **Philipp3107/Philipp3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
