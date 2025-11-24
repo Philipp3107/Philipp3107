@@ -46,11 +46,9 @@
   
   Diese Tools habe ich erfolgreich in kleineren Projekten oder spezifischen Modulen angewendet und bin bereit, das Wissen zu vertiefen.
   
-  <p>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  </p>
   
   <br>
 
@@ -58,10 +56,8 @@
   
   Hier beschäftige ich mich aktiv mit den neuesten Entwicklungen und dem Basis-Verständnis.
   
-  <p>
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  </p>
   
   ---
   
