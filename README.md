@@ -70,8 +70,7 @@
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Philipp3107&show_icons=true&theme=vue&hide=prs&hide_rank=true" alt="Deine GitHub Statistiken" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Philipp3107&theme=vue" alt="Deine GitHub Streak" />
-  </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Philipp3107&theme=vue" alt="Deine GitHub Streak" />  </p>
   
   *Bitte ersetze **DEIN\_GITHUB\_USERNAME** mit deinem tatsächlichen Benutzernamen, damit die Grafiken funktionieren.*
 
