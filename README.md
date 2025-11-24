@@ -13,7 +13,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-1C2F53?style=for-the-badge&logo=php&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-1C2F53?style=for-the-badge&logoColor=white)
 
 ### 📚 Ich lerne gerade (Anfänger-Level)
 
