@@ -2,10 +2,10 @@
   
   # Hi there, ich bin Philipp 👋
   
-  ### 💻 PHP | Java | Docker | Full-Stack Developer
+  ### 💻 PHP | Java | Docker | Full-Stack Developer | Student
   
   <p align="center">
-    Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf <strong>robuste Backends</strong> (PHP/Symfony, Java) und effiziente E-Commerce-Lösungen (Shopware). Ich liebe sauberen, objektorientierten Code (OOP) und setze auf moderne DevOps-Praktiken mit Docker und GitLab, um Deployment-Prozesse zu optimieren.
+    Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf <strong>robuste Backends</strong> (PHP/Symfony, Java) offenheit gegenüber neuer Sprachen und Lösungen. Ich liebe sauberen, objektorientierten Code (OOP) und setze auf moderne DevOps-Praktiken mit Docker und GitLab, um Deployment-Prozesse zu optimieren.
   </p>
   
   ---
