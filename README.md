@@ -25,7 +25,7 @@
 
   Hier zeige ich meine tiefsten und routiniertesten Fähigkeiten, die ich täglich in Projekten anwende:
   
-  <p>
+  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -38,7 +38,6 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![OOP](https://img.shields.io/badge/OOP-1C2F53?style=for-the-badge&logo=php&logoColor=white)
-  </p>
   
   <br>
 
