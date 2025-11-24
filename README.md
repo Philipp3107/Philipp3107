@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, ich bin [Dein Name] 👋
+  # Hi there, ich bin Philipp 👋
   
   ### 💻 PHP | Java | Full-Stack Developer
   
@@ -69,20 +69,10 @@
   ## 📊 GitHub Statistiken
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=vue&hide=prs&hide_rank=true" alt="Deine GitHub Statistiken" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_USERNAME&theme=vue" alt="Deine GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Philipp3107&show_icons=true&theme=vue&hide=prs&hide_rank=true" alt="Deine GitHub Statistiken" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Philipp3107&theme=vue" alt="Deine GitHub Streak" />
   </p>
   
   *Bitte ersetze **DEIN\_GITHUB\_USERNAME** mit deinem tatsächlichen Benutzernamen, damit die Grafiken funktionieren.*
 
 </div>
-
----
-
-### Was macht diesen Entwurf so gut?
-
-1.  **Klarer Fokus:** Die Überschrift (`PHP | Java | Full-Stack Developer`) positioniert dich sofort.
-2.  **Übersichtliches Kurzprofil:** Der Text (mittig ausgerichtet für Aufmerksamkeit) nutzt Power-Wörter (`robuste Backends`, `effizient`, `moderne DevOps-Praktiken`) und erwähnt deine Kern-Skills (`Symfony`, `Docker`).
-3.  **Professionelle Badges:** Die Technologie-Badges sind exakt nach deinem Können in drei Ebenen unterteilt.
-4.  **Dynamik:** Die **GitHub Stats** und der **Streak** zeigen, dass du aktiv bist und regelmäßig Code schreibst – ein Riesen-Pluspunkt in der IT-Bewerbung.
-5.  **Call-to-Action:** Die **LinkedIn**-Verlinkung ist prominent platziert.
