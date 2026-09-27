@@ -26,7 +26,7 @@
   Hier zeige ich meine tiefsten und routiniertesten Fähigkeiten, die ich täglich in Projekten anwende:
   
 
-  ![Kotlin](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-007396?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
